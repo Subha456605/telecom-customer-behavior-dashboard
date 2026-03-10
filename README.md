@@ -13,7 +13,7 @@ This Power BI dashboard analyzes telecom customer data to understand usage patte
 
 ## Tools Used
 - Power BI
-- Excel / CSV Dataset
+- CSV Dataset
 - Data Visualization
 
 ## Dataset Features
