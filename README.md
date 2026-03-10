@@ -1,2 +1,32 @@
-# telecom-customer-behavior-dashboard
-Power BI dashboard analyzing telecom customer behavior, churn, usage trends, and NPS score.
+# Telecom Customer Behavior Analytics Dashboard
+
+## Project Overview
+This Power BI dashboard analyzes telecom customer data to understand usage patterns, churn behavior, revenue trends, and customer satisfaction.
+
+## Key Insights
+- Customer growth trends over time
+- Customer churn distribution
+- Internet usage trends
+- Revenue by plan type
+- Net Promoter Score (NPS) analysis
+- Customer rating and satisfaction
+
+## Tools Used
+- Power BI
+- Excel / CSV Dataset
+- Data Visualization
+
+## Dataset Features
+- CustomerID
+- City
+- PlanType
+- MonthlyCharge
+- DataUsageGB
+- CallMinutes
+- SMSCount
+- Churn
+- Rating
+- NPS Score
+
+## Author
+Subhradip Sahoo
