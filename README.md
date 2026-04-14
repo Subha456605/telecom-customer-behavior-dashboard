@@ -31,5 +31,6 @@ This Power BI dashboard analyzes telecom customer data to understand usage patte
 ## 📈 Dashboard Preview
 ![Dashboard Preview](Telecom Customer Usage & Churn Analytics Dashboard (Power BI)_page-0001.jpg)
 
+
 ## Author
 Subhradip Sahoo
