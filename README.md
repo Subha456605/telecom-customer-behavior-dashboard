@@ -28,9 +28,10 @@ This Power BI dashboard analyzes telecom customer data to understand usage patte
 - Rating
 - NPS Score
 
-## 📈 Dashboard Preview
+## Dashboard Preview
 ![Dashboard Preview](Dashboard.jpg)
 
 
 ## Author
-Subhradip Sahoo
+**Subhradip**
+Aspiring Data Analyst 
