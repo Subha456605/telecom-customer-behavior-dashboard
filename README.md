@@ -28,5 +28,8 @@ This Power BI dashboard analyzes telecom customer data to understand usage patte
 - Rating
 - NPS Score
 
+## 📈 Dashboard Preview
+![Dashboard Preview](Telecom Customer Usage & Churn Analytics Dashboard (Power BI)_page-0001)
+
 ## Author
 Subhradip Sahoo
